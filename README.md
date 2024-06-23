@@ -1,2 +1,3 @@
 # QR Code Basic Challenge
- HTML and CSS Challenges to Practice
+ My first public HTML and CSS project.
+ Challenges to practice!
